@@ -8,7 +8,6 @@ def my_collect(array)
     collection.push yield(array[counter])
     counter += 1
   end
-  
-  
+  collection
 end
 
