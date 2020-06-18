@@ -4,6 +4,7 @@ def my_collect(array)
   
   if array == []
     my_collect(array) do | x |
+      
   
 end
 
