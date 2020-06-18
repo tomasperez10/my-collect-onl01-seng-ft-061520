@@ -4,5 +4,7 @@ def my_collect(array)
   
   collection = []
   
+  while i < array.length
+  
 end
 
