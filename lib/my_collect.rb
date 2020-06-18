@@ -7,7 +7,7 @@ def my_collect(array)
     my_collect(array) do | x |
       counter += 1
   end
-  elsif array = collection
+  elsif array == collection
 end
   
 end
