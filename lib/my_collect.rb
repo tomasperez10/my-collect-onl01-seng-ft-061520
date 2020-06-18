@@ -6,5 +6,6 @@ def my_collect(array)
   
   while i < array.length
   
+  
 end
 
